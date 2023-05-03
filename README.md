@@ -12,36 +12,40 @@ Fully functional E-commerce website with Stripe Online Payments, Admin Analytics
 -   Output all database products with pagination
 -   Add to Cart functionality
 -   Responsive Design with Tailwind.css
+![image](https://user-images.githubusercontent.com/128102810/235868181-fc29ff35-8abf-43e7-b505-7d8728124d4c.png)
 
 ### Cart Page
 -   Change quantity of the items
 -   Remove items from cart
 -   Proceed to checkout page
 -   Send email to admin users on new orders
+![image](https://user-images.githubusercontent.com/128102810/235868364-b4ad2c66-009d-4ede-8f1d-5938ee28fc9a.png)
 
 ### My Orders Page
 -   Output customer orders with pagination
 -   Pay unpaid orders
 -   Click to view order details
+![image](https://user-images.githubusercontent.com/128102810/235868443-28ef60af-531b-44b0-9567-78ae9552f715.png)
 
 ### Analytics Dashboard
 -   Overall information about active customers, paid orders, total income
 -   Order distribution by countries
 -   Information about latest orders and customers
 -   Change date range period to update data
+![image](https://user-images.githubusercontent.com/128102810/235868523-447b1956-71c3-475f-8b37-7c0e5f19684d.png)
 
 ### All Orders in Admin Panel
 -   View all orders with pagination, sorting and filtering
 -   Click each order to view all details of the order
 -   Update order status into shipping or completed
 -   Send email to customer when order status is updated
+![image](https://user-images.githubusercontent.com/128102810/235868652-82434aa7-275b-4fb5-ab82-b0dac69888ec.png)
 
 ### Dedicated page for reports
 -   Number of new orders by day
 -   Number of new customers by day
 -   Update date range period
-
-
+![image](https://user-images.githubusercontent.com/128102810/235868814-3cce6f9a-e49e-4427-b3c3-15197595b897.png)
 
 ## Demo
 -   Admin Panel: https://admin.lcommerce.net
