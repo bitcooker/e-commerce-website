@@ -1,28 +1,74 @@
-# Laravel E-commerce Website
-E-commerce application built with Laravel, Vue.js, Tailwind.css and Alpine.js. <br>
+# E-commerce Website
+Fully functional E-commerce website with Stripe Online Payments, Admin Analytics Dashboard, Reporting and more, built with Laravel, Vue.js, TailwindCSS and Aplpine <br>
 
-> If you want to see every single step how this E-commerce application is build and learn how to build your own Full Stack applications, check my website [thecodeholic.com](https://thecodeholic.com)
+## Tech Stack
+-   Laravel
+-   Vue.js
+-   Alpine.js
+-   TailwindCSS
+
+## Features
+### Landing Page
+-   Output all database products with pagination
+-   Add to Cart functionality
+-   Responsive Design with Tailwind.css
+
+### Cart Page
+-   Change quantity of the items
+-   Remove items from cart
+-   Proceed to checkout page
+-   Send email to admin users on new orders
+
+### My Orders Page
+-   Output customer orders with pagination
+-   Pay unpaid orders
+-   Click to view order details
+
+### Analytics Dashboard
+-   Overall information about active customers, paid orders, total income
+-   Order distribution by countries
+-   Information about latest orders and customers
+-   Change date range period to update data
+
+### All Orders in Admin Panel
+-   View all orders with pagination, sorting and filtering
+-   Click each order to view all details of the order
+-   Update order status into shipping or completed
+-   Send email to customer when order status is updated
+
+### Dedicated page for reports
+-   Number of new orders by day
+-   Number of new customers by day
+-   Update date range period
+
+
 
 ## Demo
-Admin Panel: https://admin.lcommerce.net
-```
-Email: admin@example.com
-Password: admin123
-```
+-   Admin Panel: https://admin.lcommerce.net
+    ```
+    Email: admin@example.com
+    Password: admin123
+    ```
 
-Website: https://lcommerce.net
+-   Website: https://lcommerce.net
 
-```
-Email: user1@example.com
-Password: useruser1
+    ```
+    Email: user1@example.com
+    Password: useruser1
 
 
-Email: user2@example.com
-Password: useruser2
-```
+    Email: user2@example.com
+    Password: useruser2
+    ```
 
-## Installation 
-Make sure you have environment setup properly. You will need MySQL, PHP8.1, Node.js and composer.
+
+## How to Run
+### Requirements
+Make sure you have environment setup properly. 
+-   MySQL
+-   PHP8.1
+-   Node.js
+-   composer
 
 ### Install Laravel Website + API
 1. Download the project (or clone using GIT)
